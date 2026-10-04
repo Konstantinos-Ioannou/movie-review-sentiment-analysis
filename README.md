@@ -23,6 +23,6 @@ The ID3 algorithm implemented in this project can be used for text classificatio
 To install and run this project, clone the repository and ensure you have the necessary dependencies installed:
 
 ```bash
-git clone https://github.com/theGreatDane-coder/id3Algorithm.git
-cd id3Algorithm
+git clone https://github.com/Konstantinos-Ioannou/movie-review-sentiment-analysis.git
+cd movie-review-sentiment-analysis
 jupyter notebook ID3_demo.ipynb
